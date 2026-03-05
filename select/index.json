@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Gabriela",
+  "base_artist": "KATSEYE",
+  "createdAt": "2026-03-05T15:00:50.653018Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "EN CASITA (feat. Gabriela Berlingeri)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/01_EN_CASITA_(feat._Gabriela_Berlingeri)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gabriela",
+      "artist": "Jorge Ben Jor",
+      "has_synced": true,
+      "path": "select/02_Gabriela_Jorge_Ben_Jor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gabriela",
+      "artist": "Jorge Ben",
+      "has_synced": true,
+      "path": "select/03_Gabriela_Jorge_Ben.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Abandonei a Gabriela",
+      "artist": "MC Kekel feat. MC V7",
+      "has_synced": true,
+      "path": "select/04_Abandonei_a_Gabriela_MC_Kekel_feat._MC_V7.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Abandonei A Gabriela",
+      "artist": "Mc Kekel/Mc V7",
+      "has_synced": true,
+      "path": "select/05_Abandonei_A_Gabriela_Mc_Kekel_Mc_V7.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "EN CASITA (feat. Gabriela)",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/06_EN_CASITA_(feat._Gabriela)_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Made a Circle (feat. Nappy Nina, Maasai, Antonia Gabriela & Orion Sun)",
+      "artist": "Moor Mother feat. Nappy Nina, Maassai, Antonia Gabriela & Orion Sun",
+      "has_synced": false,
+      "path": "select/07_Made_a_Circle_(feat._Nappy_Nina,_Maasai,_Antonia_Gabriela_&_Orion_Sun)_Moor_Mother_feat._Nappy_Nina,_Maassai,_Antonia_Gabriela_&_Orion_Sun.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gabriela",
+      "artist": "KATSEYE",
+      "has_synced": false,
+      "path": "select/pl_01_Gabriela_KATSEYE.txt"
+    }
+  ]
+}
